@@ -1,41 +1,39 @@
 <h1 align="center">Hi 👋, I'm Eda</h1>
 
-A passionate backend developer and data analyst from Turkey. I specialize in building scalable backend systems and exploring data-driven insights. I enjoy solving complex problems and learning new technologies.
+I'm a passionate **Backend Developer** and **Data Analyst** from Turkey, with a focus on building scalable backend systems and extracting valuable insights from data. I thrive on solving complex challenges and continuously evolving by embracing new technologies.
 
-## 🚀 Technologies & Tools
-- Backend: C#, .NET Core, Python, Flask
-- Database: SQL Server, PostgreSQL, MySQL, Entity Framework
-- Data Analysis: Pandas, NumPy, Matplotlib, Seaborn
-- API Development: RESTful APIs, Swagger, Postman
-- Tools: Git, GitHub, Azure DevOps, Docker, Visual Studio
+---
 
-## 💻 Projects
-- **Data Analysis of Consumer Behavior:** Analyzed consumer behavior data using Python (Pandas, NumPy) and visualized insights with Seaborn and Matplotlib.
-- **E-Commerce Backend:** Developed a scalable e-commerce backend system using .NET Core and SQL Server.
-- **Sentiment Analysis on Reviews:** Implemented sentiment analysis on product reviews using Python and scikit-learn.
+## 🚀 **Technologies & Tools**  
+- **Backend Development**: C#, .NET Core, Python, Flask  
+- **Database Management**: SQL Server, PostgreSQL, MySQL, Entity Framework  
+- **Data Analysis**: Pandas, NumPy, Matplotlib, Seaborn  
+- **API Development**: RESTful APIs, Swagger, Postman  
+- **Version Control**: Git, GitHub, Azure DevOps  
+- **Containerization**: Docker  
+- **Others**: Visual Studio, Jenkins, Firebase, Cloud Platforms  
 
-## 🏢 Experience
-- **Freelancer Backend Developer** (2024 - Present)
-- **Intern, Data Analytics at XYZ Corp** (2023)
+---
 
-## 🎓 Education & Certifications
-- **Bachelor’s in Computer Science** – Yıldız Technical University, 2022
-- **Data Science Bootcamp** – Coursera, 2023
-- **Certified C# Developer** – Microsoft, 2023
+## 💻 **Highlighted Projects**  
+- **Consumer Behavior Data Analysis**  
+  Analyzed large datasets using Python libraries (Pandas, NumPy) and visualized findings with Matplotlib and Seaborn.
 
-## 📫 How to reach me
-- Email: [edabuzlu@gmail.com](mailto:edabuzlu@gmail.com)
-- LinkedIn: [linkedin.com/in/buzlueda](https://www.linkedin.com/in/buzlueda)
-- GitHub: [github.com/buzlueda](https://github.com/buzlueda)
-- Twitter: [twitter.com/eda_buzlu](https://twitter.com/eda_buzlu)
+- **E-Commerce Backend Development**  
+  Designed and implemented a scalable e-commerce backend system using **.NET Core** and **SQL Server**.
 
-## 🎮 Fun Facts
-- In my free time, I love playing video games and exploring new technologies.
-- I'm a huge fan of puzzle games and solving logic problems.
-- I enjoy reading about artificial intelligence and data science trends.
+- **Sentiment Analysis on Product Reviews**  
+  Developed a sentiment analysis model on product reviews using **scikit-learn** to predict sentiment polarity.
+
+---
+
+## 🎓 **Education & Certifications**  
+- **Bachelor’s in Statistics** – Yıldız Technical University (2023)
+- **Associate Degree in Computer Programming** - Anadolu University (2025)
+- **Data Science Bootcamp** – DataCamp (2023)  
 
 - 📫 How to reach me **edabuzlu@gmail.com**
-- 
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/buzlueda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/buzlueda" height="30" width="40" /></a>
