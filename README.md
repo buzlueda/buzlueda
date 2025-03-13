@@ -1,8 +1,41 @@
 <h1 align="center">Hi 👋, I'm Eda</h1>
-<h3 align="center">A passionate backend developer & data data analyst from Turkey</h3>
+
+A passionate backend developer and data analyst from Turkey. I specialize in building scalable backend systems and exploring data-driven insights. I enjoy solving complex problems and learning new technologies.
+
+## 🚀 Technologies & Tools
+- Backend: C#, .NET Core, Python, Flask
+- Database: SQL Server, PostgreSQL, MySQL, Entity Framework
+- Data Analysis: Pandas, NumPy, Matplotlib, Seaborn
+- API Development: RESTful APIs, Swagger, Postman
+- Tools: Git, GitHub, Azure DevOps, Docker, Visual Studio
+
+## 💻 Projects
+- **Data Analysis of Consumer Behavior:** Analyzed consumer behavior data using Python (Pandas, NumPy) and visualized insights with Seaborn and Matplotlib.
+- **E-Commerce Backend:** Developed a scalable e-commerce backend system using .NET Core and SQL Server.
+- **Sentiment Analysis on Reviews:** Implemented sentiment analysis on product reviews using Python and scikit-learn.
+
+## 🏢 Experience
+- **Freelancer Backend Developer** (2024 - Present)
+- **Intern, Data Analytics at XYZ Corp** (2023)
+
+## 🎓 Education & Certifications
+- **Bachelor’s in Computer Science** – Yıldız Technical University, 2022
+- **Data Science Bootcamp** – Coursera, 2023
+- **Certified C# Developer** – Microsoft, 2023
+
+## 📫 How to reach me
+- Email: [edabuzlu@gmail.com](mailto:edabuzlu@gmail.com)
+- LinkedIn: [linkedin.com/in/buzlueda](https://www.linkedin.com/in/buzlueda)
+- GitHub: [github.com/buzlueda](https://github.com/buzlueda)
+- Twitter: [twitter.com/eda_buzlu](https://twitter.com/eda_buzlu)
+
+## 🎮 Fun Facts
+- In my free time, I love playing video games and exploring new technologies.
+- I'm a huge fan of puzzle games and solving logic problems.
+- I enjoy reading about artificial intelligence and data science trends.
 
 - 📫 How to reach me **edabuzlu@gmail.com**
-
+- 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/buzlueda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/buzlueda" height="30" width="40" /></a>
